@@ -1,0 +1,7 @@
+.toggleOn::before {
+  content: url("src\assets\icons\complete-icon.svg");
+  position: relative;
+
+  top: 100px;
+  left: 100px;
+}
